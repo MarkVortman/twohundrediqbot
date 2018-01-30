@@ -1,4 +1,5 @@
-
+#created by markvortman
+#bundle exec ruby main.rb - star
 require 'telegram/bot'
 require './options.rb'
 
